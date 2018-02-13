@@ -49,7 +49,7 @@ if __name__ == '__main__':
      
     # Test 1: Betray on first move.
     if test_move(my_history='Betray',
-              their_history='collude', 
+              their_history='Collude', 
               my_score=200,
               their_score=-300,
               result='b'):
